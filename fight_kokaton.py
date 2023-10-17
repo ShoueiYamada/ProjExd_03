@@ -78,6 +78,9 @@ class Bird:
 
 
 class Beam:
+    """
+    ここでビームのコードを書く
+    """
     def __init__(self,bird : Bird):
         """
         ビーム画像Surfaceを生成する
